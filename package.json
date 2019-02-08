@@ -1,0 +1,26 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "The purpose of this repository is to track my solutions to the Project Euler problems. Another purpose is to practice test driven development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksmith10309/project-euler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksmith10309/project-euler/issues"
+  },
+  "homepage": "https://github.com/ksmith10309/project-euler#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
