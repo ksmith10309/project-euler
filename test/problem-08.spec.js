@@ -1,7 +1,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const largestProduct = require('../problem-8/problem-8.js');
+const largestProduct = require('../problem-08/problem-08.js');
 
 describe('Problem 8', function() {
   it('should return 5832 for the product of the four adjacent digits in the 1000-digit number that have the greatest product', function() {

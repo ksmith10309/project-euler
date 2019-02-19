@@ -1,7 +1,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const sumMultiples = require('../problem-1/problem-1.js');
+const sumMultiples = require('../problem-01/problem-01.js');
 
 describe('Problem 1', function() {
   it('should return 23 for the sum of all natural numbers below 10 that are multiples of 3 or 5', function() {

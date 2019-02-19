@@ -1,7 +1,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const smallestMultiple = require('../problem-5/problem-5.js');
+const smallestMultiple = require('../problem-05/problem-05.js');
 
 describe('Problem 5', function() {
   it('should return 2520 for the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder', function() {

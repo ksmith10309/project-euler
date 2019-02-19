@@ -1,7 +1,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const nthPrime = require('../problem-7/problem-7.js');
+const nthPrime = require('../problem-07/problem-07.js');
 
 describe('Problem 7', function() {
   it('should return 13 for the 6th prime number', function() {

@@ -1,7 +1,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const pythagoreanTriplet = require('../problem-9/problem-9.js');
+const pythagoreanTriplet = require('../problem-09/problem-09.js');
 
 describe('Problem 9', function() {
   it('should return 60 for the product of the Pythagorean triplet with the sum of 12', function() {

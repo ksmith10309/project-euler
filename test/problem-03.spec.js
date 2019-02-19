@@ -1,7 +1,7 @@
 'use strict';
 
 const expect = require('chai').expect;
-const largestPrime = require('../problem-3/problem-3.js');
+const largestPrime = require('../problem-03/problem-03.js');
 
 describe('Problem 3', function() {
   it('should return 29 for the largest prime factor of 13195', function() {
